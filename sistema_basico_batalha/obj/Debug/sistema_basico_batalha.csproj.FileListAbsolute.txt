@@ -1,0 +1,10 @@
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\bin\Debug\sistema_basico_batalha.exe.config
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\bin\Debug\sistema_basico_batalha.exe
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\bin\Debug\sistema_basico_batalha.pdb
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\obj\Debug\sistema_basico_batalha.csproj.AssemblyReference.cache
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\obj\Debug\sistema_basico_batalha.Form1.resources
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\obj\Debug\sistema_basico_batalha.Properties.Resources.resources
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\obj\Debug\sistema_basico_batalha.csproj.GenerateResource.cache
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\obj\Debug\sistema_basico_batalha.csproj.CoreCompileInputs.cache
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\obj\Debug\sistema_basico_batalha.exe
+C:\Users\SOFIAPARTATAMAGALHAE\Downloads\projetos\sistema_basico_batalha\obj\Debug\sistema_basico_batalha.pdb
